@@ -93,9 +93,9 @@ Internet
 - DHCP scope 192.168.10.100-200 avec options complètes
 
 ### GPO (Group Policy Objects)
-- **GPO1** — Politique de mots de passe (longueur 10, complexité, expiration 90j, verrouillage 5 tentatives)
-- **GPO2** — Restrictions accès (panneau de config, connexion locale/RDP par groupe)
-- **GPO3** — Journalisation avancée (Account Logon, Logon/Logoff, Object Access, Privilege Use)
+- **GPO1** - Politique de mots de passe (longueur 10, complexité, expiration 90j, verrouillage 5 tentatives)
+- **GPO2** - Restrictions accès (panneau de config, connexion locale/RDP par groupe)
+- **GPO3** - Journalisation avancée (Account Logon, Logon/Logoff, Object Access, Privilege Use)
 
 ### Sécurité SSH
 - Port non standard : 2222
@@ -172,7 +172,7 @@ nexacorp-infrastructure/
 
 ---
 
-## Audit de Sécurité — Résumé
+## Audit de Sécurité - Résumé
 
 | # | Faille | Machine | Niveau | Corrigée |
 |---|---|---|---|---|
@@ -202,4 +202,4 @@ Projet réalisé dans le cadre d'un laboratoire de simulation d'infrastructure I
 
 ---
 
-*Infrastructure NexaCorp — Mai 2026*
+*Infrastructure NexaCorp | Mai 2026*
