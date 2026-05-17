@@ -1,0 +1,6 @@
+Nom d’ordinateur,Cible de stratégie,Sous-catégorie,GUID de sous-catégorie,Paramètre d’inclusion,Paramètre d’exclusion,Valeur de paramètre
+,Système,Auditer la gestion des comptes d’utilisateur,{0cce9235-69ae-11d9-bed3-505054503030},Succès et échec,,3
+,Système,Auditer la fermeture de session,{0cce9216-69ae-11d9-bed3-505054503030},Succès et échec,,3
+,Système,Auditer l’ouverture de session,{0cce9215-69ae-11d9-bed3-505054503030},Succès et échec,,3
+,Système,Auditer d’autres événements d’accès à l’objet,{0cce9227-69ae-11d9-bed3-505054503030},Échec,,2
+,Système,Auditer l’utilisation de privilèges sensibles,{0cce9228-69ae-11d9-bed3-505054503030},Succès et échec,,3
